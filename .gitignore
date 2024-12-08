@@ -28,3 +28,5 @@ lib/python3.12/site-packages/PIL/.dylibs/
 lib/python3.12/site-packages/pyarrow/
 lib/python3.12/site-packages/torch/lib/
 chatbot_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
+chatbot_env/lib/python3.12/site-packages/torch/lib/
+chatbot_env/lib/python3.12/site-packages/pyarrow/
