@@ -1,0 +1,30 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Model Files (optional - can be large)
+*.pth
+my_personal_chatbot/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+*.dylib
+lib/python3.12/site-packages/PIL/.dylibs/
+lib/python3.12/site-packages/pyarrow/
+lib/python3.12/site-packages/torch/lib/
+chatbot_env/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib
